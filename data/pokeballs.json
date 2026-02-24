@@ -1,0 +1,38 @@
+{
+  "pokeball": {
+    "name": "Poké Ball",
+    "multiplier": {
+      "common": 1.0,
+      "uncommon": 0.85,
+      "rare": 0.7,
+      "legendary": 0.4
+    }
+  },
+  "greatball": {
+    "name": "Great Ball",
+    "multiplier": {
+      "common": 1.25,
+      "uncommon": 1.1,
+      "rare": 0.9,
+      "legendary": 0.6
+    }
+  },
+  "ultraball": {
+    "name": "Ultra Ball",
+    "multiplier": {
+      "common": 1.5,
+      "uncommon": 1.3,
+      "rare": 1.1,
+      "legendary": 0.8
+    }
+  },
+  "masterball": {
+    "name": "Master Ball",
+    "multiplier": {
+      "common": 100,
+      "uncommon": 100,
+      "rare": 100,
+      "legendary": 100
+    }
+  }
+}
