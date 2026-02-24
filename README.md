@@ -127,6 +127,3 @@ PM2 ensures:
 • Database integration (MongoDB)
 • Trading system
 • Web dashboard
-
-```
-
