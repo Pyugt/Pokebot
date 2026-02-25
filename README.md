@@ -8,13 +8,13 @@ It is designed with a modular architecture and managed using PM2 for production-
 
 ## Features
 
-• Spawn wild Pokémon in Discord channels  
-• Catch Pokémon with interactive commands  
-• User-specific Pokédex tracking  
-• Organized command and event handling system  
-• Persistent data storage using JSON  
-• Production-ready deployment using PM2  
-• Scalable and modular architecture  
+• Spawn wild Pokémon in Discord channels.  
+• Catch Pokémon with interactive commands.  
+• User-specific Pokédex tracking.  
+• Organized command and event handling system.  
+• Persistent data storage using JSON.  
+• Production-ready deployment using PM2.  
+• Scalable and modular architecture.  
 
 ---
 
