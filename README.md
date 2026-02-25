@@ -24,7 +24,7 @@ It is designed with a modular architecture and managed using PM2 for production-
 - Discord.js  
 - PM2 (Process Manager)  
 - JavaScript (ES6)  
-- JSON (Data storage)  
+- JSON (Small Scale Data storage)  
 
 ---
 
