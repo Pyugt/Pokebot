@@ -1,7 +1,7 @@
 # Pokebot — Pokémon Discord Bot
 
 An event-driven Pokémon Discord bot built using Node.js, and Discord.js.  
-The bot allows users to spawn, catch, and collect Pokémon while maintaining their own Pokédex.  
+The bot allows users to spawn, catch and collect Pokémon while maintaining their own Pokédex.  
 It is designed with a modular architecture and managed using PM2 for production-level process management.
 
 ---
