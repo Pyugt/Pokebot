@@ -12,7 +12,11 @@
   "type": "commonjs",
   "dependencies": {
     "discord.js": "^14.19.3",
+<<<<<<< HEAD
     "dotenv": "^16.5.0",
     "mongoose": "^9.3.0"
+=======
+    "dotenv": "^16.5.0"
+>>>>>>> c1d5f1b841688771fe84b4e8558eed023ffd4f81
   }
 }

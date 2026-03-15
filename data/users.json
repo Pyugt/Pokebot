@@ -10,6 +10,7 @@
       "caterpie",
       "mr. mime",
       "seadra",
+<<<<<<< HEAD
       "charmeleon",
       "Grimer",
       "Doduo",
@@ -22,5 +23,16 @@
     },
     "coins": 1158,
     "lastDaily": 1773542686828
+=======
+      "charmeleon"
+    ],
+    "inventory": {
+      "pokeball": 100,
+      "greatball": 49,
+      "ultraball": 13
+    },
+    "coins": 1054,
+    "lastDaily": 1747316634500
+>>>>>>> c1d5f1b841688771fe84b4e8558eed023ffd4f81
   }
 }
