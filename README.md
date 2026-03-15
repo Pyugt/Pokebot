@@ -5,7 +5,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-18%2B-339933?logo=node.js&logoColor=white)
 ![Discord.js](https://img.shields.io/badge/Discord.js-v14-5865F2?logo=discord&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-Process%20Manager-2B037A?logo=pm2&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-blue)
 
 Pokebot brings Pokémon gameplay directly into Discord. Wild Pokémon spawn in your channels, users race to catch them, and everyone builds their own personal Pokédex — all powered by a clean, modular codebase and kept running 24/7 with PM2.
 
@@ -152,12 +151,3 @@ Contributions are welcome! Feel free to open an issue to report bugs or suggest 
 4. Push to the branch: `git push origin feature/your-feature`
 5. Open a Pull Request
 
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-<p align="center">Made with ❤️ and a lot of Pokéballs</p>
