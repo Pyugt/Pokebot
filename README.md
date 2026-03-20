@@ -1,6 +1,6 @@
 # 🎮 Pokebot
 
-> A Pokémon Discord bot built with Node.js & Discord.js — catch 'em all without leaving your server
+> A Pokémon Discord bot built with Node.js & Discord.js — catch 'em all without leaving your server.
 
 ![Node.js](https://img.shields.io/badge/Node.js-18%2B-339933?logo=node.js&logoColor=white)
 ![Discord.js](https://img.shields.io/badge/Discord.js-v14-5865F2?logo=discord&logoColor=white)
